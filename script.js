@@ -100,3 +100,9 @@ document.querySelector("#nama").value = nama;
 // elemen apa yg menyimpan nama undangan
 
 // ngirim pronoun masing masing undangan
+
+
+// script animasi on open
+
+
+// script animasi on scroll 
